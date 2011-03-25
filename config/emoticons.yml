@@ -21,3 +21,6 @@
 - emoticon: '(!)'
   image: warning.png
   title: Warning
+- emoticon: '(blush)'
+  image: blush.gif
+  title: Blush
